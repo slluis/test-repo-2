@@ -1,3 +1,6 @@
 [submodule "test-repo-3"]
 	path = test-repo-3
 	url = git@github.com:slluis/test-repo-3.git
+[submodule "test-repo-4"]
+	path = test-repo-4
+	url = git@github.com:slluis/test-repo-4.git
