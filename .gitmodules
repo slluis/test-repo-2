@@ -4,3 +4,4 @@
 [submodule "test-repo-4"]
 	path = test-repo-4
 	url = git@github.com:slluis/test-repo-4.git
+	branch = foo
